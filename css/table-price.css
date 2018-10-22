@@ -1,0 +1,29 @@
+table {
+font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+text-align: center;
+border-collapse: collapse;
+border-spacing: 5px;
+/*background: #7B88751A;;*/
+border-radius: 20px;
+margin-top: 20px;
+}
+th {
+font-size: 22px;
+font-weight: 300;
+padding: 12px 10px;
+border-bottom: 2px solid #F56433;
+color: #F56433;
+}
+tbody tr:nth-child(2) {
+border-bottom: 2px solid #F56433;
+}
+td {
+	background: #7B88751A;
+padding: 10px;
+color: #8D8173;
+border: 1px solid burlywood;
+}
+.fortable {
+	padding-left: 20%;
+	padding-right: 20%;
+}

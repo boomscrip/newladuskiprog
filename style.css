@@ -1,0 +1,130 @@
+.head {
+	padding-top: 15px;
+}
+
+.logo {
+	padding-bottom: 10px;
+}
+
+.soc {
+  width: 170px;
+  margin: 0 auto;
+  margin-top: 7px;
+  word-spacing: none; }
+  .soc a {
+    display: inline-block;
+    margin-left: 6px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    border-radius: 10em;
+    color: #fff;
+    font-size: 14px;
+    -webkit-transition-duration: 0.8s;
+    -moz-transition-duration: 0.8s;
+    -o-transition-duration: 0.8s;
+    transition-duration: 0.8s;
+    -webkit-transition-property: -webkit-transform;
+    -moz-transition-property: -moz-transform;
+    -o-transition-property: -o-transform;
+    transition-property: transform;
+    overflow: hidden; }
+  .soc .vk {
+    background: #77AED5; }
+  .soc .fb {
+    background: #6481AB; }
+  .soc .tw {
+    background: #00D1FC; }
+  .soc .inst {
+    background: #9D7957; }
+  .soc a:hover {
+    cursor: pointer;
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -o-transform: rotate(360deg); }
+
+
+
+		.scrollspy-example {
+		  position: relative;
+		  height: 100%;
+		  overflow: auto;
+		}
+
+
+.nav-item {
+	padding-left: 10px;
+}
+.carate-icon {
+
+	padding-left: 20px;
+}
+.carate-icon svg {
+
+	width: 40px;
+}
+
+.flag-great_britan {
+	padding-left: 20px;
+}
+
+.flag-great_britan img {
+	width: 40px;
+	height: 40px;
+}
+.slider {
+	display: block !important ;
+}
+
+.more_info {
+	display: none;
+}
+.carate_more-info {
+	display: none;
+}
+
+.btn-primary {
+	color: #fefefe !important;
+}
+.carate_more-info {
+	border: 1px solid #cdcdcd;
+	border-radius: 25px;
+
+}
+.belova {
+	padding-bottom: 15px;
+}
+
+
+.multic_more-info {
+	display: none;
+	border: 1px solid #cdcdcd;
+	border-radius: 25px;
+}
+.otzyv-block {
+	padding: 15px;
+	width: 100%;
+	background: #f0f0f0;
+
+	border:  1px solid #cdcdcd;
+	border-radius: 25px;
+	margin-top: 25px;
+
+}
+.title {
+	font-family: 'Open Sans', sans-serif;
+
+color: #4C55B2;
+margin-top: 13px;
+margin-left: 50%;
+
+}
+.check {
+	color:green;
+
+}
+
+.left-menu {
+	position: fixed;
+}
